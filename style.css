@@ -1,0 +1,40 @@
+  .heading
+  {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .um
+  {
+    float: none;
+    background: white ; 
+    padding: 10px;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .i_am_cool
+  {
+    font-size: 18px ;
+  }
+  .idk,.hi
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .idk span,.hi span{
+    white-space: pre-line;
+  }
+ 
+.copy_right_footer{
+  position: fixed;
+  bottom: 100;
+  width:100%;
+  color: wheat;
+  background-color:royalblue;
+  text-align: right;
+  line-height: 3;
+  padding-right: 50px;
+}
